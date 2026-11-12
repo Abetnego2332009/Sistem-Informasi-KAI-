@@ -85,6 +85,6 @@ Mengembangkan media informasi berbasis web yang dapat membantu masyarakat memper
 
 ## 👨‍💻 Developer
 
-**Abetnego Siahaan**
+**Rey Siahaan**
 
 GitHub: [@Abetnego2332009](https://github.com/Abetnego2332009)
